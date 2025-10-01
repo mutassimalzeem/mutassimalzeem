@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutassimalzeem
 - 👀 I’m interested in coding and electronics
-- 🌱 I’m currently learning Python
+- 🌱 Python and ML Dev
 - 📫 How to reach me mutassimalshahriar@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: workholic person
