@@ -63,10 +63,8 @@ Desktop application that transcribes and summarizes video content using AI model
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutassimalzeem&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutassimalzeem&layout=compact&theme=tokyonight" height="170" />
-</p>
+![Zeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutassimalzeem&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mutassimalzeem&layout=compact&theme=tokyonight)
 
 ---
 
