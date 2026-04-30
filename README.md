@@ -67,12 +67,12 @@
 
 #### 🤖 Machine Learning & Data
 
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
 #### 🌐 Frontend & App Side
 
@@ -99,15 +99,9 @@
 ## 📞 Connect with me
 
 <p align="center">
-  <a href="https://github.com/mutassimalzeem" title="GitHub Profile">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="42" height="30" alt="github logo" />
-  </a>
-  <a href="https://www.linkedin.com/mutassimalzeem/" title="LinkedIn Profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="42" height="30" alt="linkedin logo" />
-  </a>
-  <a href="mailto:mutassimalshahriar@gmail.com" title="Gmail">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="42" height="30" alt="gmail logo" />
-  </a>
+  <a href="https://github.com/mutassimalzeem" title="GitHub Profile"><img src="https://cdn.simpleicons.org/github" width="42" height="30" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mutassimalzeem/" title="LinkedIn Profile"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:mutassimalshahriar@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="30" alt="Gmail" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
