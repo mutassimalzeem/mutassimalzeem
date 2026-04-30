@@ -31,10 +31,10 @@
 </p>
 
 <div align="center">
-  <a href="mailto:your-email-here@example.com">
+  <a href="mailto:mutassimalshahriar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/mutassimalzeem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mutassimalzeem" target="_blank">
@@ -69,7 +69,7 @@
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NumPy/numpy1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Pandas/pandas1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/scikitlearn/scikitlearn1.svg)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### 🌐 Frontend & App Side
 
