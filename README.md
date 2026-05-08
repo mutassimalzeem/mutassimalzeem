@@ -55,8 +55,8 @@
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-  ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat&logo=sqlite&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=matlab&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat&logo=sqlite&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 
 #### ⚙️ Backend Development
 
